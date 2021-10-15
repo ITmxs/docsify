@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>小徐的百宝箱</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -17,6 +17,12 @@
   <div id="app"> 加载中，请稍后</div>
   <script>
     window.$docsify = {
+      search: {
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        depth: 3,
+      },
       name: '小徐的百宝箱',
       nameLink: '/',
       loadSidebar: true,
@@ -25,6 +31,23 @@
       onlyCover: false,
       mergeNavbar: true,
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      count:{
+    countable:true,
+    fontsize:'0.9em',
+    color:'rgb(90,90,90)',
+    language:'chinese',
+  
+  },  
+  
+  disqus: 'shortname',
+  
+  
+  pagination: {
+            previousText: '上一篇',
+            nextText: '下一篇',
+            crossChapter: true,
+            crossChapterText: true,
+        },
 
 formatUpdated: function(time) {
   // ...
@@ -37,8 +60,14 @@ formatUpdated: function(time) {
 
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script> 
 <script src="https://{{cdn}}/prism@v1.x/components/prism-core.min.js"></script>
-	<script src="https://{{cdn}}/prism@v1.x/plugins/autoloader/prism-autoloader.min.js"></script>
+ <script src="https://{{cdn}}/prism@v1.x/plugins/autoloader/prism-autoloader.min.js"></script> 
+
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </body>
 </html>

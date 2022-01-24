@@ -1,14 +1,25 @@
-* 入门
+* 自媒体
 
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
+  * [公众号](https://mp.weixin.qq.com/s/NuT-t79uRyAPEYF27DLcPQ)
+  * [掘金](https://juejin.cn/user/3843548384077192)
+  * [InfoQ](https://www.infoq.cn/u/jianguo/publish)
+  * [CSDN](https://blog.csdn.net/qq_39132095)
+  * [知乎](https://www.zhihu.com/people/yimi-yang-guang-96-65)
 
 
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+* 视频教程
+  * [哔哩哔哩](https://space.bilibili.com/480883651)
+
+- 源码：
+  - [GitHub](https://github.com/ITmxs)
+  - [Gitee](https://gitee.com/itmxs)
+
+- 原创系列
+  - Flutter
+  - 小程序
+  - 鸿蒙
+  - 安卓
+  - JavaScript
+- 个人随笔
+- 关于我
+

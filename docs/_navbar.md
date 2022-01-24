@@ -10,7 +10,7 @@
 * 视频教程
   * [哔哩哔哩](https://space.bilibili.com/480883651)
 
-- 源码：
+- 源码
   - [GitHub](https://github.com/ITmxs)
   - [Gitee](https://gitee.com/itmxs)
 

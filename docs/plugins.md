@@ -125,6 +125,8 @@ Medium's 风格的图片缩放插件. 基于 [medium-zoom](https://github.com/fr
 
 在每一页上添加 `Edit on github` 按钮. 由第三方库提供, 查看 [document](https://github.com/njleonzhang/docsify-edit-on-github)
 
+https://github.com/njleonzhang/docsify-edit-on-github
+
 ## 代码即时预览和 jsfiddle 集成
 
 通过这个插件，示例代码可以在页面上即时呈现，让读者可以立即看到预览。当读者展开演示框时，源码和说明就会显示在那里，如果点击`Try in Jsfiddle`按钮，`jsfiddle.net`就会打开这个例子的代码，让读者自己修改代码和测试。

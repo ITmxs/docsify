@@ -1,6 +1,7 @@
 * Flutter
 
   - [2022最流行的插件](Flutter/插件.md)
+  - [在 Flutter 中使用 Chip 小部件](Flutter/在 Flutter 中使用 Chip 小部件.md)
   
 * 入门
 

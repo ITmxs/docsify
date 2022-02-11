@@ -19,8 +19,5 @@
 
 
 
-
-
-
-[公众号]() [CSDN](https://github.com/docsifyjs/docsify/blob/master/docs/_coverpage.md#docsify)[GitHub](https://github.com/docsifyjs/docsify/)   [入门](https://github.com/docsifyjs/docsify/blob/master/docs/_coverpage.md#docsify)
+[掘金](https://juejin.cn/user/3843548384077192)  [InfoQ](https://www.infoq.cn/u/jianguo/publish) [Github](https://github.com/ITmxs)  [码云](https://gitee.com/itmxs) [快速开始](README.md)
 

@@ -1,6 +1,8 @@
-欢迎来到坚果技术，因为硬核，所以坚果。
+欢迎来到坚果的地盘，因为硬核，所以坚果。
 
 ## 博客平台
+
+CSDN：https://blog.csdn.net/qq_39132095
 
 掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
 
